@@ -1,0 +1,117 @@
+body{
+    background-color: rgba(0, 0, 0, 0.774);
+}
+h1{
+    margin-left: 35%;
+    text-decoration: underline;
+    /* background-color: indigo; */
+    font-size: medium;
+    font-weight: bold;
+    color: #DF2C2B;
+    
+    
+}
+.main{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(223, 3, 3);
+    position: relative;
+    margin-left: 30%;
+    margin-top: 1%;
+    border: 1px solid black;
+}
+.green{
+    background-color: green;
+    height: 300px;
+    width: 100px;
+}
+.white{
+    background-color: white;
+    height: 300px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    margin-left: 100px;
+}
+.flag2{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(105, 15, 252);
+    margin-left: 30%;
+    border: 2px solid black;
+}
+.red{
+    background-color: rgb(245, 4, 4);
+    height: 100px;
+    width: 300px;
+    float: left;
+} 
+.white2{
+    background-color: #FFFFFF;
+    height: 100px;
+    width: 300px;
+    float: left;
+}
+.flag3{
+    height: 200px;
+    width: 300px;
+    background-color:#009244;
+    margin-left: 30%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+
+}
+.circle{
+    height: 50%;
+    width: 35%;
+    background: #DF2C2B;
+    border: 2px solid red;
+    border-radius: 48%;
+    margin-top: 2%;
+
+}
+
+.belgium{
+    height: 300px;
+    width: 300px;
+    background-color: rgb(223, 3, 3);
+    position: relative;
+    margin-left: 30%;
+    margin-top: 2%;
+    border: 1px solid black;
+}
+.b1{
+    background-color: rgb(25, 26, 25);
+    height: 300px;
+    width: 100px
+}
+.b2{
+    background-color:yellow;
+    height: 300px;
+    width: 100px;
+    position: absolute;
+    top: 0;
+    margin-left: 100px;
+}
+.japan{
+    height: 200px;
+    width: 300px;
+    background-color:#fbfdfc;
+    margin-left: 30%;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 2%;
+}
+.j1{
+    height: 50%;
+    width: 35%;
+    background: #DF2C2B;
+    border: 2px solid red;
+    border-radius: 48%;
+    margin-top: 2%;
+}
